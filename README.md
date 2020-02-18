@@ -11,8 +11,10 @@ Setup enviroment
     pip install requests
 
 Build windows executable with 
+
     pip install pyinstaller
     pyinstaller source/linkTester.py
 
 To test a file
+
     dist/linkTester/linkTester.exe tests/testDoc.docx
