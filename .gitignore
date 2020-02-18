@@ -1,0 +1,7 @@
+build/
+source/.mypy_cache/
+.vscode/
+linkTester.spec
+dist/
+source/__pycache__/
+.mypy_cache/
